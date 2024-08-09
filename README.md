@@ -1,6 +1,6 @@
 # Code-snippets
 
-This repository contains a few code snippets used in my latest research project. 
+This repository contains a few code snippets used in my last research project. 
 
 ## code_stocks_france:
 
